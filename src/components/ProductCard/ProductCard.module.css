@@ -1,0 +1,9 @@
+.ProductCard {
+
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(190, 241, 190);
+
+}
